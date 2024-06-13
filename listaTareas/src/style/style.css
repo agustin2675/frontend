@@ -1,0 +1,30 @@
+body{
+    background-color:  rgb(238, 238, 238);
+    margin: 15px;
+
+}
+
+.contenedor{
+    max-width: 1000px;
+    margin: 0 auto;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+.lista{
+    margin-top: 10px;
+}
+
+.tarea{
+    display: flex;
+    justify-content: space-between;
+}
+
+.titulo{
+    display: flex;
+    align-items: center;
+}
+.titulo span{
+    margin-left: 10px;
+}
